@@ -39,7 +39,7 @@ void insert()
 int count()
 {
     int c=0;
-    struct node *t;
+    struct node *t;   //naice
     if(start==NULL)
         return 0;
     else
